@@ -259,7 +259,7 @@
 
     /* goats */
     skydock.planetCollection.add(new skydock.modelTemplates.PlanetModel({
-        name: 'Goatard',
+        name: 'Goat',
         greeting: [
             'HAYY',
             'HAYYYYYYyYYY',
@@ -312,22 +312,6 @@
         color: 'sand',
         size: 'large'
     }));
-
-    /* dune */
-    skydock.planetCollection.add(new skydock.modelTemplates.PlanetModel({
-        name: 'Dune',
-        greeting: [
-            'I must rule with eye and claw —',
-            'as the hawk among lesser birds.'
-        ],
-        position: {
-            x: 2020,
-            y: 2225
-        },
-        color: 'sand',
-        size: 'large'
-    }));
-
 
     /* dune */
     skydock.planetCollection.add(new skydock.modelTemplates.PlanetModel({
